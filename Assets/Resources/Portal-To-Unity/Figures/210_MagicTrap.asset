@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 210_MagicTrap
+  m_EditorClassIdentifier: 
+  Name: Magic Trap
+  CharacterID: 210
+  Type: 11
+  Element: 7
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 3d71c39356e88c843acb93d17b2f566e, type: 2}
+  - {fileID: 11400000, guid: 1a11f111d07798047ab0344b6ff5e7bc, type: 2}
+  - {fileID: 11400000, guid: ec7767d3b24047d4287d8626745acd8b, type: 2}
+  - {fileID: 11400000, guid: 8bd6c86378c070a4982400396dcbb4b2, type: 2}
+  - {fileID: 11400000, guid: 2b68a9f0665f5fd438ef25ecfa882ae9, type: 2}
+  - {fileID: 11400000, guid: 2113d1f1178f59c41a89e96cdcbb6f93, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: TrapDecoID

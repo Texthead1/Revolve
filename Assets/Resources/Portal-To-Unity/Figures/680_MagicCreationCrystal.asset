@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 680_MagicCreationCrystal
+  m_EditorClassIdentifier: 
+  Name: Magic Creation Crystal
+  CharacterID: 680
+  Type: 16
+  Element: 7
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 7d61868e051af5e4c9ea84ed4b0ac09f, type: 2}
+  - {fileID: 11400000, guid: e239083c2b48112489e30bc5d62c682f, type: 2}
+  - {fileID: 11400000, guid: ebb8f880e00e96b439fa1a172448468b, type: 2}
+  - {fileID: 11400000, guid: d8f262773339ed74eb679b4dd1c5b99e, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: CrystalDecoID

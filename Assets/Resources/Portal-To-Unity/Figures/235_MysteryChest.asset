@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 235_MysteryChest
+  m_EditorClassIdentifier: 
+  Name: Mystery Chest
+  CharacterID: 235
+  Type: 7
+  Element: 0
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: d4ad8c0af2e30ed4a9f2f4197c0ced0c, type: 2}
+  - {fileID: 11400000, guid: e86396113bc729f49ae21a5f7d8e5867, type: 2}
+  - {fileID: 11400000, guid: fc1adecc0bd078c4b8a4a42303e4be4c, type: 2}
+  - {fileID: 11400000, guid: be9b8e6bdbc188840bdc06fb8c0c4d1f, type: 2}
+  - {fileID: 11400000, guid: b57e31de1fe9255488e9850578b0928d, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: ChestDecoID

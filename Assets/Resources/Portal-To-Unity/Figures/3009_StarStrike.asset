@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 3009_StarStrike
+  m_EditorClassIdentifier: 
+  Name: Star Strike
+  CharacterID: 3009
+  Type: 0
+  Element: 7
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 65640b591648f9c4dbf7c4133e0e6f74, type: 2}
+  - {fileID: 11400000, guid: 4a8fbae4fd889e54f88bdf37c75920df, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: DecoID

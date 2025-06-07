@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 687_LifeCreationCrystal
+  m_EditorClassIdentifier: 
+  Name: Life Creation Crystal
+  CharacterID: 687
+  Type: 16
+  Element: 5
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 3155a29c077ee314992e5be1772e2670, type: 2}
+  - {fileID: 11400000, guid: 3270e1cdc30569f459c08d34e6b56e37, type: 2}
+  - {fileID: 11400000, guid: 1a3994e4e09513b4b9c7d0465fc29481, type: 2}
+  - {fileID: 11400000, guid: 5c488b79d20fef24586099acf36c0070, type: 2}
+  - {fileID: 11400000, guid: a00850e7744fb2543ae1e710925a0260, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: CrystalDecoID

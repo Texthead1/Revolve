@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 105_HotDog
+  m_EditorClassIdentifier: 
+  Name: Hot Dog
+  CharacterID: 105
+  Type: 0
+  Element: 4
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: c9130f8a7a770ce45a4a45d4403812c3, type: 2}
+  - {fileID: 11400000, guid: 7e7d46b4cae677d469f97d6eaf32b2f6, type: 2}
+  - {fileID: 11400000, guid: 070d7b19bb5ef5041a16e5e7049b988d, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: DecoID

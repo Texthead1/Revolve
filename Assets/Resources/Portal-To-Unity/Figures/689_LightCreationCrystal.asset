@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 689_LightCreationCrystal
+  m_EditorClassIdentifier: 
+  Name: Light Creation Crystal
+  CharacterID: 689
+  Type: 16
+  Element: 9
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 9341aa59864c9e0409a34364e7da578c, type: 2}
+  - {fileID: 11400000, guid: 0479bdb828b446b4180aa04692e3cc67, type: 2}
+  - {fileID: 11400000, guid: 226dae048ff18724fb910fc31078d906, type: 2}
+  - {fileID: 11400000, guid: 479a2b9d5c675b148b4eed4b300fc9fe, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: CrystalDecoID

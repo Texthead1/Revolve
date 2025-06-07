@@ -1,0 +1,56 @@
+namespace PortalToUnity
+{
+#if UNITY_EDITOR
+    [MarkAsVillainID]
+#endif
+    public enum VillainID
+    {
+        None = 0,
+        ChompyMage = 1,
+        DrKrankcase = 2,
+        Wolfgang = 3,
+        ChefPepperJack = 4,
+        Nightshade = 5,
+        Luminous = 6,
+        GoldenQueen = 7,
+        Dreamcatcher = 8,
+        Gulper = 9,
+        Kaos = 10,
+        CuckooClocker = 11,
+        BuzzerBeak = 12,
+        ShieldShredder = 13,
+        CrossCrow = 14,
+        BoneChompy = 15,
+        BrawlAndChain = 16,
+        BombShell = 17,
+        MaskerMind = 18,
+        ChillBill = 19,
+        SheepCreep = 20,
+        Shrednaught = 21,
+        ChompChest = 22,
+        BroccoliGuy = 23,
+        RageMage = 24,
+        LobGoblin = 25,
+        Chompy = 26,
+        Fisticuffs = 27,
+        TrollingThunder = 28,
+        HoodSickle = 29,
+        BruiserCruiser = 30,
+        Brawlrus = 31,
+        TussleSprout = 32,
+        Krankenstein = 33,
+        ScrapShooter = 34,
+        SlobberTrap = 35,
+        Grinnade = 36,
+        BadJuju = 37,
+        BlasterTron = 38,
+        TaeKwonCrow = 39,
+        PainYatta = 40,
+        SmokeScream = 41,
+        EyeFive = 42,
+        GraveClobber = 43,
+        Threatpack = 44,
+        MabLobs = 45,
+        EyeScream = 46
+    }
+}

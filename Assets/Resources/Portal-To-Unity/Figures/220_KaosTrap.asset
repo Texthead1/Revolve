@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 220_KaosTrap
+  m_EditorClassIdentifier: 
+  Name: Kaos Trap
+  CharacterID: 220
+  Type: 11
+  Element: 11
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: eb17fb3e827dd684eb248464dc216ecf, type: 2}
+  - {fileID: 11400000, guid: c4e3bd2275052804f84657758f8b83c7, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: TrapDecoID

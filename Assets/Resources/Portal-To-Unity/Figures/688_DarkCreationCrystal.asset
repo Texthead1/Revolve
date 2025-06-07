@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 688_DarkCreationCrystal
+  m_EditorClassIdentifier: 
+  Name: Dark Creation Crystal
+  CharacterID: 688
+  Type: 16
+  Element: 10
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 3bfed9ca47a9fe6419e146174ae1775f, type: 2}
+  - {fileID: 11400000, guid: 4248f495eb29aa34ba74ff74ff5daaea, type: 2}
+  - {fileID: 11400000, guid: f1cff9ae07740a24db2bbf8fc04417c3, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: CrystalDecoID

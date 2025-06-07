@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 0_Whirlwind
+  m_EditorClassIdentifier: 
+  Name: Whirlwind
+  CharacterID: 0
+  Type: 0
+  Element: 3
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 4a75119cf63964e46927cf42d6a5a876, type: 2}
+  - {fileID: 11400000, guid: b9f894916f52fa9439dad667b2b4f55c, type: 2}
+  - {fileID: 11400000, guid: 428fecf05ab28654ebfeddb79071db8c, type: 2}
+  - {fileID: 11400000, guid: 2c5e73ccf49e15d4f932e5a5981f0d0e, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: DecoID

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 214_TechTrap
+  m_EditorClassIdentifier: 
+  Name: Tech Trap
+  CharacterID: 214
+  Type: 11
+  Element: 8
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 91067f615bf925c4f9ad12a4b5c8daf7, type: 2}
+  - {fileID: 11400000, guid: 6e1ee93637a89fc4e850e5029babd528, type: 2}
+  - {fileID: 11400000, guid: 2e17eff49f57cc44ebbc73fda7b888b9, type: 2}
+  - {fileID: 11400000, guid: de11cb965b7a2984b9194c83a6ed60d4, type: 2}
+  - {fileID: 11400000, guid: 64b4e80542a899b40ab773f6c21b5d37, type: 2}
+  - {fileID: 11400000, guid: 3a89668dfb799ba42b35f431e43e60e1, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: TrapDecoID

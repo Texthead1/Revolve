@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 9_Eruptor
+  m_EditorClassIdentifier: 
+  Name: Eruptor
+  CharacterID: 9
+  Type: 0
+  Element: 4
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 44ddc23920f35f249baf2763b45225e6, type: 2}
+  - {fileID: 11400000, guid: e187feec1283cea4499c042ded38a3ae, type: 2}
+  - {fileID: 11400000, guid: 7d736861792cd4041a6710e505d54cbb, type: 2}
+  - {fileID: 11400000, guid: 9850822ac2cc04a4b8d7f9d096c0d295, type: 2}
+  - {fileID: 11400000, guid: 713551548b30b4a47a94ebb110ce35a3, type: 2}
+  - {fileID: 11400000, guid: eae0eb9eaa64fab4fa4607c28d38651b, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: DecoID

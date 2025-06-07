@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 30_ChopChop
+  m_EditorClassIdentifier: 
+  Name: Chop Chop
+  CharacterID: 30
+  Type: 0
+  Element: 6
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 27742a5fcbe86f649844e777afc7e2db, type: 2}
+  - {fileID: 11400000, guid: 88293e7e09536624795c83c93360f2fb, type: 2}
+  - {fileID: 11400000, guid: 401592121c4cc2c4a933f1f0928d730e, type: 2}
+  - {fileID: 11400000, guid: 7d4a2db3ba9126c409d212acd3be4b00, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: DecoID

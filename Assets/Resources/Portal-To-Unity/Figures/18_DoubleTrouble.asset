@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 18_DoubleTrouble
+  m_EditorClassIdentifier: 
+  Name: Double Trouble
+  CharacterID: 18
+  Type: 0
+  Element: 7
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 84dadee58a20bc44a9134cf0c505908f, type: 2}
+  - {fileID: 11400000, guid: c567686f8f4cd7f40868398f78d36818, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: DecoID

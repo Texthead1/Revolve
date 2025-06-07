@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 470_Jawbreaker
+  m_EditorClassIdentifier: 
+  Name: Jawbreaker
+  CharacterID: 470
+  Type: 4
+  Element: 8
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: a522f778b183262449869b027a214d03, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: DecoID

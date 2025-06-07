@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a089d810e57342441bde361c2616ae5f, type: 3}
+  m_Name: 216_EarthTrap
+  m_EditorClassIdentifier: 
+  Name: Earth Trap
+  CharacterID: 216
+  Type: 11
+  Element: 1
+  Prefix: 
+  Variants:
+  - {fileID: 11400000, guid: 2b5a17892de30594291bdc8a4a16ad5e, type: 2}
+  - {fileID: 11400000, guid: 366684f379d7a9444817b9ec61dfc625, type: 2}
+  - {fileID: 11400000, guid: b03e92947b9e4884a8f8d60f2c89a388, type: 2}
+  - {fileID: 11400000, guid: b11b8d9326f3b6e4f8afb03a4e235b4c, type: 2}
+  - {fileID: 11400000, guid: 6793aab198e362543840bc84c49939ed, type: 2}
+  - {fileID: 11400000, guid: 24086f1cfab469b499223d203b87d12d, type: 2}
+  ToyCodeEnumType: ToyCode
+  DecoIDEnumType: TrapDecoID
