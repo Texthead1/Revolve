@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -23,8 +24,6 @@ namespace Revolve
         private PortalOfPower primaryPortal;
         private PortalFigure modifyingTrap;
         private List<PortalFigure> backgroundTraps = new List<PortalFigure>();
-
-        private List<PortalFigure> incompatibleFigureAlerts;
 
         private void OnEnable()
         {
@@ -270,11 +269,16 @@ namespace Revolve
 
             PortalInfo portalInfo = figure.Parent.GetPortalInfo();
 
-            int colorIndex = -1;
+            int colorIndex = (int)LEDType.FullColor;
             if (portalInfo != null)
+            {
                 colorIndex = portalInfo.LEDType == LEDType.Enhanced ? (int)LEDType.FullColor : (int)portalInfo.LEDType;
 
-            primaryPortal.COMMAND_SetLEDColor(Elements.Colors[trapInfo.Element][colorIndex]);
+                if (portalInfo.LEDType != LEDType.None)
+                    primaryPortal.COMMAND_SetLEDColor(Elements.Colors[trapInfo.Element][colorIndex]);
+            }
+            else
+                primaryPortal.COMMAND_SetLEDColor(Elements.Colors[trapInfo.Element][colorIndex]);
 
             await trap.FetchMagicMoment();
             await trap.FetchRemainingData();
